@@ -1,0 +1,46 @@
+.cities{
+	display:inline-block;
+	margin: 1%;
+	background-color: #AFE0DC !important;
+	color:white;
+	padding:1%;
+	border-radius: 8%;
+}
+
+.gif{
+	margin:1%;
+}
+
+ .input{
+	margin:2%;
+}
+
+.newD{
+	display: inline-block;
+	margin:1%;
+}
+
+.form{
+	margin:1%;
+}
+
+.names{
+	margin-top: 3%;
+}
+
+#addMovie{
+	background-color: #AFE0DC;
+	color:white;
+	padding:1%;
+	border-radius: 8%;
+	border:none;
+}
+
+#movieInput{
+	background-color: #F29670;
+	color:white;
+	padding:1%;
+	border:none;
+	text-align: center;
+}
+
